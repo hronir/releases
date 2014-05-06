@@ -1,4 +1,4 @@
 releases
 ========
 
-Maven repo
+Maven repository for releases
